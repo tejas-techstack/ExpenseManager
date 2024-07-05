@@ -1,0 +1,6 @@
+25/Jun/2024,test1,100,home
+25/Jun/2024,test1,100,est2
+25/Jun/2024,2,100,est2
+25/Jun/2024,test2,1,home
+25/6/2024,test10,1000,home
+25/6/2024,test15,150,college
